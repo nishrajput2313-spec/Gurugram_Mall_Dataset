@@ -1,0 +1,21 @@
+name,location,opened,area_sqft,lat,lon,match_type,distance_km,within_5km
+Airia Mall,"Sohna Road, Badshahpur, Sector-68, Gurgaon",2020,253505,28.3832926,77.0523944,name only,1.98,True
+Ambience Mall Gurgaon,"NH-8, Ambience Island, Sector-24, Gurgaon",2007,1800000,28.5042583,77.0972049,name only,12.66,False
+Ansal Plaza,"Rezang La Chowk, Palam Vihar, Sector-23, Gurgaon",2007,260000,28.511342,77.0417054,name only,12.39,False
+Ardee Mall,"Ardee City, Sector-52, Gurgaon",2017,250000,28.4451582,77.0808739,name only,6.12,False
+Central Plaza,"Sector-53, Golf Course Road, Gurgaon",2003,100000,28.4429408,77.1008562,name only,7.24,False
+DLF City Centre,"Sector-28, MG Road, Gurgaon",2003,260000,28.4769607,77.0662688,address only (approximate),8.81,False
+DLF Grand Mall,"Sector-28, MG Road, Gurgaon",2005,210507,28.4769607,77.0662688,address only (approximate),8.81,False
+DLF South Point Mall,"Genpact Chowk, Sector-53, Golf Course Road, Gurgaon",2022,278853,,,not found,,False
+DT Mega Mall,"Bristol Chowk, Sector-28, Golf Course Road, Gurgaon",2003,290000,28.4758425,77.0931814,name only,9.65,False
+Gold Souk Mall,"Vyaper Kendra Road, Kanhai, Sector-43, Gurgaon",2004,180000,28.4508374,77.0787028,name only,6.54,False
+Gurgaon Central,"Sector-25, MG Road, Gurgaon",2009,125000,28.4795809,77.0757535,name + address,9.34,False
+MGF Megacity Mall,"Sector-28, MG Road, Gurgaon",2017,400000,28.4769607,77.0662688,address only (approximate),8.81,False
+MGF Metropolis Mall,"Sector-28, MG Road, Gurgaon",2011,800000,28.4769607,77.0662688,address only (approximate),8.81,False
+MGF Metropolitan Mall,"Sector-25, MG Road, Gurgaon",1998,500000,28.4811137,77.0802095,name only,9.65,False
+Omaxe Celebration Mall,"Subhash Chowk, Sector-48, Sohna Road, Gurgaon",2010,155000,28.4272682,77.0360658,name only,3.17,True
+Omaxe Gurgaon Mall,"Sector-49, Sohna Road, Gurgaon",2006,265000,28.4496809,77.0317267,address only (approximate),5.69,False
+Raheja Mall,"Sohna Road, Malibu Town, Sector-47, Gurgaon",2009,290000,28.4235511,77.0395058,name only,2.69,True
+Sahara Mall,"Sector-28, MG Road, Gurgaon",2001,230000,28.4795214,77.0867508,name only,9.73,False
+Star Mall,"NH-8, Jal Vayu Vihar, Sector-30, Gurgaon",2007,219000,28.4614263,77.0527232,name only,6.88,False
+The Esplanade Mall,"Sector-37C, Gurgaon",2021,200000,28.453175,76.992198,name + address,7.87,False
